@@ -31,14 +31,14 @@ namespace week_5_activity
                 j++;
 
              }
-
+            Console.WriteLine("do while loop");
             int k = num1;
             do
             {
-                Console.WriteLine("{0}       {1}       {2}", j, j * 10, j * 100);
-                j++;
+                Console.WriteLine("{0}       {1}       {2}", k, k * 10, k * 100);
+                k++;
 
-            } while (j <= num2);
+            } while (k <= num2);
             Console.ReadLine();
         }
     }

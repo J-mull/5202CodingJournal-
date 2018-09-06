@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harder arrays", "harder arrays\harder arrays.csproj", "{965FF78B-2071-4DD8-8F51-1BC2B816268B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965FF78B-2071-4DD8-8F51-1BC2B816268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965FF78B-2071-4DD8-8F51-1BC2B816268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965FF78B-2071-4DD8-8F51-1BC2B816268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965FF78B-2071-4DD8-8F51-1BC2B816268B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5538F3B-9273-452F-B195-92A94099BD97}
+	EndGlobalSection
+EndGlobal
